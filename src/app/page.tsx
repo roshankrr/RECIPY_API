@@ -28,7 +28,7 @@ export default function Home() {
   </nav>
   <div className="flex items-center justify-between px-6 py-12">
     <div className="max-w-lg space-y-6">
-      <h2 className="text-6xl text-black font-bold">Italian Pasta With Special Sauce</h2>
+      <h2 className="text-6xl text-black font-bold">Margarita Pizza With Special Sauce</h2>
       <p className="text-gray-600">Margarita Pizza with special sauce is a flavor you can find only in FOODIE.</p>
       <div className="flex items-center space-x-4">
         <span className="text-2xl font-bold line-through text-gray-400">$7.90</span>

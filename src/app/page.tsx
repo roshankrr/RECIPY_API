@@ -29,11 +29,11 @@ export default function Home() {
   <div className="flex items-center justify-between px-6 py-12">
     <div className="max-w-lg space-y-6">
       <h2 className="text-6xl text-black font-bold">Italian Pasta With Special Sauce</h2>
-      <p className="text-gray-600">Italian pasta with special sauce is a flavor you can find only in fode.</p>
+      <p className="text-gray-600">Margarita Pizza with special sauce is a flavor you can find only in FOODIE.</p>
       <div className="flex items-center space-x-4">
         <span className="text-2xl font-bold line-through text-gray-400">$7.90</span>
         <span className="text-4xl text-black font-bold">$7.90</span>
-        <Link href={'/recipy'}>
+        <Link href={'/recipy-desc/1'}>
         <button className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 hover:bg-primary/90 h-10 px-4 py-2 bg-black text-white">
           Want Recipy?
         </button>
